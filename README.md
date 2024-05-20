@@ -8,7 +8,7 @@ Dans ce projet, tu vas créer une page interactive en utilisant JavaScript. Tu e
 
 ### Mise en place de l'exo
 
-Commence par télécharger le repo GitHub fourni. Il contient une page HTML (exo_events.html) que tu vas améliorer en ajoutant diverses fonctionnalités à l'aide de JavaScript.
+Commence par télécharger le repo GitHub fourni : https://github.com/TheHackingProject/JS_events. Il contient une page HTML (exo_events.html) que tu vas améliorer en ajoutant diverses fonctionnalités à l'aide de JavaScript.
 
 ### Conseils avant de se lancer :
 
